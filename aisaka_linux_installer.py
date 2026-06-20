@@ -179,7 +179,7 @@ Name=Aisaka
 Exec={launcher_path} %u
 Type=Application
 Terminal=false
-MimeType=x-scheme-handler/aisaka-launcher;
+MimeType=x-scheme-handler/aisaka-player;
 """
 
 with open(desktop_path, "w") as f:
